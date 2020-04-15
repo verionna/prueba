@@ -1,2 +1,9 @@
 Habia una vez en un lugar muy lejano
-una familia de Jedis 
+una familia de Jedis.
+la familia Jedi tenia seis miembros.
+-Juan
+-Pedro 
+-Alicia
+-Marcos
+-Tatiana
+-Luis 
