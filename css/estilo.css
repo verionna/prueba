@@ -1,8 +1,9 @@
 body
 {
-    color: #333;
+    background: #5973f5;
+    color: rgb(236, 230, 230)241, 238, 238);
     text-align: center;
-    font-family: -apple-system;
+    font-family: Arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -10,7 +11,7 @@ body
 
 #cabecera
 {
-    background: #33A;
+    background: black;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
@@ -23,6 +24,11 @@ body
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+}
+#cabecera #logo
+{
+    width: 60px;
+    vertical-align: middle;
 }
 
 #contenedor
@@ -40,5 +46,6 @@ body
 }
 #post
 {
+    background: white;
     padding: 1em;
 }
