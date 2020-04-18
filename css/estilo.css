@@ -42,3 +42,8 @@ body
 {
     padding: 1em;
 }
+#bandera
+{
+     width: 40px;
+    vertical-align: middle;
+}
