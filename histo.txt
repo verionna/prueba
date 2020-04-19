@@ -4,9 +4,6 @@ una familia
 experimento 1
 
 master 1
-<<<<<<< HEAD
 master 2
-=======
 
->>>>>>> exp 1
 ellos eran muy felices  
