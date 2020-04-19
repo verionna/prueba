@@ -3,8 +3,8 @@ Esto es un proyecto para trabajar en controles de versiones tanto remotos como l
 En el curso aprenderas 
 - Git y Github 
 - Importancia de utilizar un control de versiones 
-- Conceptos como :
--Branchs 
--Forks
--Pull request
+- Conceptos como :<br/>
+-Branchs <br/>
+-Forks <br/>
+-Pull request <br/>
 <p>Hecho con amor gracias <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.naserpublicidad.org%2Fwp-content%2Fuploads%2F2013%2F06%2Flogo_platzi.png&f=1&nofb=1" width="100px"></p> 
